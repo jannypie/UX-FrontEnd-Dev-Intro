@@ -227,20 +227,33 @@ Chrome, FireFox, Safari, IE, Opera, Mobile (iOS, Safari, Chrome, etc). Learn the
 - Testing: Browserstack, VMs, Physical Devices, Mobile Emulators
 
 ### Terminology In Not-Super-Technical Terms
-*Acronym is included first if that is the most often way you will ever see the term
-Client Side	The webpages that load (render) in your user’s browsers, on their devices. 
-Server Side	Databases and software living elsewhere that tell browsers what to load.
-Framework	Basically a code template, where someone else has worked out all the hard bits to make things happen, and you just load it in and use the parts you need. These have specific features that are used often, and save having to re-write it every time. Example: jQuery UI is a framework with basic User Interface elements (buttons, lists, menus, etc)
-Library	Essentially the same thing as a framework. You may run into people who debate the semantics of it, but for beginner purposes, they are both pre-written sets of code that perform a specific function and save you having to write it all yourself.
-Designing in the browser		Using browser dev tools to create pages without Photoshop, etc.
-Responsive Web Design (RWD)	The idea that people are accessing your site on all sorts of websites, and accessing a forced desktop site on a mobile phone is an annoying user experience.
-Progressive Enhancement		Users access your site on different devices, and not all of them can handle CSS or JavaScript. Build your content with good HTML, so that they will always at least see that, and then use CSS or JS to enhance your content - don’t make seeing content dependent on them
-Graceful Degradation	Ok, so in reality, most of us build websites that use CSS and JS and look good in the newest browsers. You don’t want to leave all those other people behind though, so at the very least, pages should look good and not break in older browsers.
-DOM (Document Object Model)	The compilation of HTML tags in a document(eh?eh?) that gets turned into a webpage. Traversed from top to bottom.
-API (Application Programming Interface)		Think of API’s as plug and socket. If Pinterest wants to post your pins to Facebook, Facebook exposes some of their code in a semi-public way (the sockets, the API) so that Pinterest can write code that hooks to it (the plug). Together, they share all your pins to your news feed, and everyone sees your obsession with fingernail art.
-AJAX (Asynchronous JavaScript and XML)	Javascript (and XML) are like the DOM, in that they are read and processed top to bottom. This means that one thing is processed before the next thing gets a turn. AJAX lets you say “Start this, and while that’s running, go on to the other things.”	
-CMS (Content Management System)	A series of databases that store content (blog posts, products for sale, news articles, videos, etc) in an easy-to-manage way. Wordpress is a joint CMS and content publishing platform.
-
+*Acronym is included first if that is the most often way you will see the term.*
+<dl>
+  <dt>Client Side</dt>
+    <dd>The webpages that load (render) in your user’s browsers, on their devices.</dd>
+  <dt>Server Side</dt>
+    <dd>Databases and software living elsewhere that tell browsers what to load.</dd>
+  <dt>Framework</dt>
+    <dd>Basically a code template, where someone else has worked out all the hard bits to make things happen, and you just load it in and use the parts you need. These have specific features that are used often, and save having to re-write it every time. Example: jQuery UI is a framework with basic User Interface elements (buttons, lists, menus, etc).</dd>
+  <dt>Library</dt>
+    <dd>Essentially the same thing as a framework. You may run into people who debate the semantics of it, but for beginner purposes, they are both pre-written sets of code that perform a specific function and save you having to write it all yourself.</dd>
+  <dt>Designing in the browser</dt>
+    <dd>Using browser dev tools to create pages without Photoshop, etc.</dd>
+  <dt>Responsive Web Design (RWD)</dt>
+    <dd>The idea that people are accessing your site on all sorts of websites, and accessing a forced desktop site on a mobile phone is an annoying user experience.</dd>
+  <dt>Progressive Enhancement</dt>
+    <dd>Users access your site on different devices, and not all of them can handle CSS or JavaScript. Build your content with good HTML, so that they will always at least see that, and then use CSS or JS to enhance your content - don’t make seeing content dependent on them.</dd>
+  <dt>Graceful Degradation</dt>
+    <dd>Ok, so in reality, most of us build websites that use CSS and JS and look good in the newest browsers. You don’t want to leave all those other people behind though, so at the very least, pages should look good and not break in older browsers.</dd>
+  <dt>DOM (Document Object Model)</dt>
+    <dd>The compilation of HTML tags in a document(eh?eh?) that gets turned into a webpage. Traversed from top to bottom.</dd>
+  <dt>API (Application Programming Interface)</dt>
+    <dd>Think of API’s as plug and socket. If Pinterest wants to post your pins to Facebook, Facebook exposes some of their code in a semi-public way (the sockets, the API) so that Pinterest can write code that hooks to it (the plug). Together, they share all your pins to your news feed, and everyone sees your obsession with fingernail art.</dd>
+  <dt>AJAX (Asynchronous JavaScript and XML)</dt>
+    <dd>Javascript (and XML) are like the DOM, in that they are read and processed top to bottom. This means that one thing is processed before the next thing gets a turn. AJAX lets you say “Start this, and while that’s running, go on to the other things.”</dd>
+  <dt>CMS (Content Management System)</dt>
+    <dd>A series of databases that store content (blog posts, products for sale, news articles, videos, etc) in an easy-to-manage way. Wordpress is a joint CMS and content publishing platform.</dd>
+</dl>
 
 ### Learning & Tutorial Resources
 - http://www.w3.org/ W3C, the World Wide Web Consortium, who decide web standards
