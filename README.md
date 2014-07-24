@@ -60,6 +60,8 @@ Software Architect: | $120,000+
 - http://money.usnews.com/careers/best-jobs/rankings/best-technology-jobs 
 - http://money.cnn.com/pf/best-jobs/ 
 
+<img src="https://raw.githubusercontent.com/jannypie/UX-FrontEnd-Dev-Intro/master/WebDev101.jpg">
+
 ### UI/UX Design/Web Design
 User Interface, User Experience
 Comes first because it’s the reason for developing a great web in the first place.
