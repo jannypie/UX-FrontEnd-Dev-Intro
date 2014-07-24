@@ -1,15 +1,16 @@
+*Receptive to suggestions and corrections, please make a pull request if you have tips!*
+
 ## Welcome to UX and FrontEnd Development
-
-#### Audience
-
-#### Goal
-
-#### Structure
-
-*Highly open to suggestions and corrections, please make a pull request if you have tips!*
+<dl>
+  <dt>Audience</dt>
+    <dd></dd>
+  <dt>Goal</dt>
+    <dd></dd>
+  <dt>Structure</dt>
+    <dd></dd>
+</dl>
 
 ### Introduction and Context
-
 One of the greatest challenges to people entering web development is that there is a lot of information out there. You don’t know where to begin?! Where to go next?! Just take it step by step! Think of it as the best college course ever - do it one chapter at a time, at your own pace, there are no gen eds and there’s not even a final! 
 
 > Don’t be afraid of this!
@@ -18,27 +19,25 @@ Once you have the basics, you can pretty much get off the train at any point, or
 
 Speaking of salary, let’s talk job titles for a minute, before we jump in to what the positions do. Web development is a cluster of confusion of conflicting titles - nothing is standardized. Jobs will use “designer” and “developer” and “engineer” interchangeably, although increasingly “design” means user experience/graphics, “development” means coding and web-page performance, and “engineer” means programming and complex applications. Each area also has multiple “steps” that can be full positions on their own. Some example positions are:
 
-###### UX Designer 
-Goal: You are capable of converting project requirements to an attractive design that promotes a pleasant user experience. D&D
+<dl>
+  <dt>UX Designer</dt>
+    <dd>Goal: You are capable of converting project requirements to an attractive design that promotes a pleasant user experience. D&D
 Design a web page or site from research to prototype. This is a newer field as Web Designers/Developers have come to understand the need for good research data to drive design choices.
-Individual job titles include UI Designer (wireframing, planning), UX Designer (research & testing), Interaction Designer (apps), Graphic Designer (web), Prototyper. 
+Individual job titles include UI Designer (wireframing, planning), UX Designer (research & testing), Interaction Designer (apps), Graphic Designer (web), Prototyper.</dd>
+  <dt>Web Designer</dt>
+    <dd>Goal: You are capable of converting project requirements to an attractive design that promotes a pleasant user experience. D&D
+Sounds just like UX Designer, eh? These are the folks that build basic web pages, from their own designs or from someone else. Good graphic design, HTML/CSS code, and basic jQuery will get you by. Pair it with knowing Wordpress themes and their basic PHP, and you can freelance fairly easily.</dd>
+  <dt>Front End Developer</dt>
+    <dd>Goal: None or very little design, this position builds more complex web pages from prototype or design comp to live website, using very good HTML/CSS, jQuery and/or custom JavaScript, with a focus on performance, devices, and browser support. Higher level Front End Devs may use advanced JavaScript frameworks like Angular.js and Node.js for complicated client-side applications.
+Large websites or design firms may have several developers, each with their own strengths (one better in CSS, one better in JavaScript, etc), and most of the JS frameworks offer specialized job positions.</dd>
+  <dt>Back End Developer</dt>
+    <dd>Goal: You are capable of architecting and building an application's backend to efficiently store and retrieve data. D&D Hehheh back end.
+Server-side programming, database writing and management, server administration, using languages such as PHP, Ruby, Java, ASP, etc. Can specialize in any number of the languages and technologies behind the databases and servers. Usually well-paying positions.</dd>
+  <dt>UX Engineer Description</dt>
+    <dd>This combines UX Designer and Front End Developer into a higher paid position. “These developers translate prototypes and mock-ups into a user-friendly site architecture that's intuitive to use and visually pleasing. UI engineers should be fluent in technologies like HTML, CSS and JavaScript and have an eye for design and visual aesthetics. Knowledge of multiple programming languages and frameworks is also a plus.” money.cnn.com</dd>
+</dl>
 
-###### Web Designer
-Goal: You are capable of converting project requirements to an attractive design that promotes a pleasant user experience. D&D
-Sounds just like UX Designer, eh? These are the folks that build basic web pages, from their own designs or from someone else. Good graphic design, HTML/CSS code, and basic jQuery will get you by. Pair it with knowing Wordpress themes and their basic PHP, and you can freelance fairly easily. 
-
-###### Front End Developer
-Goal: None or very little design, this position builds more complex web pages from prototype or design comp to live website, using very good HTML/CSS, jQuery and/or custom JavaScript, with a focus on performance, devices, and browser support. Higher level Front End Devs may use advanced JavaScript frameworks like Angular.js and Node.js for complicated client-side applications.
-Large websites or design firms may have several developers, each with their own strengths (one better in CSS, one better in JavaScript, etc), and most of the JS frameworks offer specialized job positions.
-
-###### Back End Developer
-Goal: You are capable of architecting and building an application's backend to efficiently store and retrieve data. D&D Hehheh back end.
-Server-side programming, database writing and management, server administration, using languages such as PHP, Ruby, Java, ASP, etc. Can specialize in any number of the languages and technologies behind the databases and servers. Usually well-paying positions.
-
-###### UX Engineer Description
-This combines UX Designer and Front End Developer into a higher paid position. “These developers translate prototypes and mock-ups into a user-friendly site architecture that's intuitive to use and visually pleasing. UI engineers should be fluent in technologies like HTML, CSS and JavaScript and have an eye for design and visual aesthetics. Knowledge of multiple programming languages and frameworks is also a plus.” money.cnn.com
-
-More reading on the job title situation: http://css-tricks.com/job-titles-in-the-web-industry/ 
+*More reading on the job title situation: http://css-tricks.com/job-titles-in-the-web-industry/ *
 
 Okay okay, you’ve read some job descriptions, but what does that mean as far as a paycheck? Well, it can mean a lot. In general, the more code you know, the more you get paid.
 
@@ -61,12 +60,12 @@ Software Architect: | $120,000+
 - http://money.usnews.com/careers/best-jobs/rankings/best-technology-jobs 
 - http://money.cnn.com/pf/best-jobs/ 
 
-###### UI/UX Design/Web Design
+### UI/UX Design/Web Design
 User Interface, User Experience
 Comes first because it’s the reason for developing a great web in the first place.
 It is not a prerequisite for getting a job as a front-end developer (if that is your goal), but it will make you a better one, and will be important in your work.
 
-## The user is the most important person on the web.
+##### The user is the most important person on the web.
 Not the designer.	Not the developer.	  Not the business owner.	Not Google search.
 
 That doesn’t mean the user is always right, however, as they are prone to personal biases and sticking to old patterns. UX Designers use research and creativity to make the user’s experience optimal - usually, this means getting the information the user wants fast and easily.
