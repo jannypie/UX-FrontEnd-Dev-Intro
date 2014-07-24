@@ -197,12 +197,17 @@ Try different ones out, especially code editors - it’s worth finding one that 
 
 ##### Command Line/Terminal
 I personally was very intimidated by the Terminal, and wouldn’t open it unless I absolutely had to. I have a talent for breaking things. Also, never having had any classes in Computer Science, I didn’t even know basic commands. I’m more comfortable with it now, and have built my own cheat sheet of basic commands. You’ll need to use it at Advanced levels to run some of the javascript frameworks, ruby gems, start and stop servers, etc. 
-TERMINAL COMMANDS
-O - [O]pen Read-Only	E - [E]dit				R - [R]ecover
-Q - [Q]uit			A - [A]bort				I - [I]nsert
-D - [D]elete it			esc :q!	- quit without saving		esc :wq - write/save and quit
-cd		change directory ( cd /Users/jandennison/Documents/Pictures)
-sudo		super user permissions 
+
+###### Terminal Commands
+Command | Action | Command | Action
+------- | ------ | ------- | ------
+O | [O]pen Read-Only | E | [E]dit
+R | [R]ecover | Q | [Q]uit
+A | [A]bort | I | [I]nsert
+D | [D]elete it | esc :q!	| quit without saving
+esc :wq | write/save and quit | sudo | super user permissions 
+cd | change directory | | 
+ex: cd /Users/jan/Documents/Pictures
 
 ##### Versioning
 Keeping versioned files is important for backup and rolling back changes. Versioning software is important so that multiple people can work on the same files without mucking things up. There are two major technologies used: Git and Subversion (SVN).
