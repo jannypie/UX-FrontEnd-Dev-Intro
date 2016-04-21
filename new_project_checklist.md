@@ -16,8 +16,8 @@ All link targets
 Metadata
 
 Fonts
-- Names, variants
-- Source (ICS internal, other)
+- Names, variants, sizes (NOT in pts)
+- Source (internal, other)
 
 Device/browser support
 Responsiveness/breakpoints
